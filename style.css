@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    background-color: #14B9EA;
+}
+
+.scoreboard{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0;
+}
+
+.rps_imgs{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.img_atts{
+    width: 250px;
+    height: 350px;
+}
